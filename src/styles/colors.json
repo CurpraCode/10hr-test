@@ -1,0 +1,11 @@
+{
+    "PRIMARY": "#d11b59",
+    "SECONDARY":  "#FD8C00",
+    "WHITE":"#FFFFFF",
+    "GRAY_DARK": "#1A202C",
+    "GRAY_LIGHT": "#CBD5E0",
+    "GRAY_LIGHTEST": "#F5F6FA",
+    "BLACK": "#000000",
+    "SUCCESS": "#18A558",
+    "ALERT": "#DB1F48"
+}
