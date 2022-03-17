@@ -6,8 +6,8 @@ import storageSession from "redux-persist/lib/storage/session";
 const persistConfig = {
     key: "root",
     storage: storageSession,
-    // whitelist: ["auth", "verify"],
-    // timeout: null,
+    whitelist: ["fetchProfile"],
+    timeout: null,
 };
 
 const rootReducer = combineReducers({
